@@ -1,0 +1,16 @@
+{
+  "ticker": "SU.PA",
+  "dernier_cours": 254.75,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1251,
+  "vol_30j_ann_pct": 33.51,
+  "beta_5ans": 0.67,
+  "var_95_1j_pct": -2.94,
+  "max_dd_5ans_pct": -35.98,
+  "max_dd_date": "2022-07-01",
+  "max_dd_cours": 105.5512,
+  "sharpe_5ans": 0.57,
+  "corr_sp500_1y": 0.32
+}
