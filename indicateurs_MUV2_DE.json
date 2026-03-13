@@ -1,0 +1,16 @@
+{
+  "ticker": "MUV2.DE",
+  "dernier_cours": 533.4,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1245,
+  "vol_30j_ann_pct": 22.09,
+  "beta_5ans": 0.24,
+  "var_95_1j_pct": -2.19,
+  "max_dd_5ans_pct": -25.36,
+  "max_dd_date": "2022-03-07",
+  "max_dd_cours": 179.7495,
+  "sharpe_5ans": 0.72,
+  "corr_sp500_1y": -0.04
+}
