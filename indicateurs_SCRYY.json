@@ -1,0 +1,16 @@
+{
+  "ticker": "SCRYY",
+  "dernier_cours": 3.43,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
+  "vol_30j_ann_pct": 36.42,
+  "beta_5ans": 0.56,
+  "var_95_1j_pct": -4.53,
+  "max_dd_5ans_pct": -59.95,
+  "max_dd_date": "2022-09-29",
+  "max_dd_cours": 1.0971,
+  "sharpe_5ans": 0.28,
+  "corr_sp500_1y": 0.26
+}
