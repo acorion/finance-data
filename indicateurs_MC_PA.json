@@ -1,0 +1,16 @@
+{
+  "ticker": "MC.PA",
+  "dernier_cours": 495.0,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1251,
+  "vol_30j_ann_pct": 27.22,
+  "beta_5ans": 0.58,
+  "var_95_1j_pct": -2.82,
+  "max_dd_5ans_pct": -49.03,
+  "max_dd_date": "2025-06-26",
+  "max_dd_cours": 433.8056,
+  "sharpe_5ans": 0.0,
+  "corr_sp500_1y": 0.17
+}
