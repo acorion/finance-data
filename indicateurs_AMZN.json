@@ -1,0 +1,16 @@
+{
+  "ticker": "AMZN",
+  "dernier_cours": 209.53,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
+  "vol_30j_ann_pct": 31.4,
+  "beta_5ans": 1.49,
+  "var_95_1j_pct": -3.28,
+  "max_dd_5ans_pct": -56.15,
+  "max_dd_date": "2022-12-28",
+  "max_dd_cours": 81.82,
+  "sharpe_5ans": 0.24,
+  "corr_sp500_1y": 0.71
+}
