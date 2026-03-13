@@ -5,7 +5,7 @@
     "AI.PA": [
       "LIN",
       "APD",
-      "PX"
+      "SIAGY"
     ],
     "AIR.PA": [
       "BA",
@@ -30,11 +30,11 @@
     "AAPL": [
       "MSFT",
       "GOOGL",
-      "SSNLF"
+      "ABBNY"
     ],
-    "CS.PA": [
+    "AXA.PA": [
       "ALV.DE",
-      "AXA.PA",
+      "CS.PA",
       "MUV2.DE"
     ],
     "BNP.PA": [
@@ -43,9 +43,9 @@
       "HSBA.L"
     ],
     "EN.PA": [
-      "VIE.PA",
+      "DG.PA",
       "DTE.DE",
-      "BAYN.DE"
+      "ACS.MC"
     ],
     "CAP.PA": [
       "ACN",
@@ -63,14 +63,14 @@
       "DASTY"
     ],
     "DTE.DE": [
-      "ORAN",
+      "ORA.PA",
       "TEF.MC",
       "VOD"
     ],
     "EL.PA": [
-      "SIE.DE",
-      "HAL",
-      "JNJ"
+      "JNJ",
+      "SNN",
+      "HSIC"
     ],
     "RMS.PA": [
       "MC.PA",
@@ -80,17 +80,17 @@
     "OR.PA": [
       "PG",
       "UL",
-      "BEIERSDORF.DE"
+      "BEI.DE"
     ],
     "MC.PA": [
       "RMS.PA",
       "CFR.SW",
-      "TAPESTRY"
+      "TPR"
     ],
     "ML.PA": [
       "GT",
-      "5108.T",
-      "CGEMY"
+      "CTTAY",
+      "PNGAY"
     ],
     "MSFT": [
       "AAPL",
@@ -102,18 +102,18 @@
       "HNR1.DE",
       "ALV.DE"
     ],
-    "ORAN": [
+    "ORA.PA": [
       "DTE.DE",
       "TEF.MC",
       "VOD"
     ],
     "SGO.PA": [
       "SHW",
-      "HDELY",
+      "CRH",
       "EXP"
     ],
     "SU.PA": [
-      "ABB",
+      "ABBNY",
       "EMR",
       "HON"
     ],
@@ -124,8 +124,8 @@
     ],
     "VIE.PA": [
       "AWK",
-      "PNM",
-      "XYL"
+      "XYL",
+      "WTRG"
     ],
     "DG.PA": [
       "EN.PA",
@@ -580,6 +580,66 @@
     "TAPESTRY": {
       "fichier": "historique_TAPESTRY.csv",
       "ticker_yf": "TPR",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "ABBNY": {
+      "fichier": "historique_ABBNY.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "BEI.DE": {
+      "fichier": "historique_BEI_DE.csv",
+      "nb_seances": 1281,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "CRH": {
+      "fichier": "historique_CRH.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "CTTAY": {
+      "fichier": "historique_CTTAY.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "HSIC": {
+      "fichier": "historique_HSIC.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "ORA.PA": {
+      "fichier": "historique_ORA_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "PNGAY": {
+      "fichier": "historique_PNGAY.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "SNN": {
+      "fichier": "historique_SNN.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "TPR": {
+      "fichier": "historique_TPR.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "WTRG": {
+      "fichier": "historique_WTRG.csv",
       "nb_seances": 1262,
       "debut": "2021-03-04",
       "fin": "2026-03-12"
