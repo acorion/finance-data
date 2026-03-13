@@ -2,14 +2,15 @@
   "ticker": "AAPL",
   "dernier_cours": 255.76,
   "date_calcul": "2026-03-12",
-  "periode_debut": "2021-03-15",
+  "periode_debut": "2021-03-04",
   "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
   "vol_30j_ann_pct": 28.7,
   "beta_5ans": 1.24,
   "var_95_1j_pct": -2.72,
   "max_dd_5ans_pct": -33.36,
   "max_dd_date": "2025-04-08",
-  "max_dd_cours": 171.67,
-  "sharpe_5ans": 0.52,
+  "max_dd_cours": 171.6718,
+  "sharpe_5ans": 0.54,
   "corr_sp500_1y": 0.76
 }
