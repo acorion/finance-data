@@ -1,0 +1,16 @@
+{
+  "ticker": "JD",
+  "dernier_cours": 27.94,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
+  "vol_30j_ann_pct": 28.0,
+  "beta_5ans": 1.05,
+  "var_95_1j_pct": -4.92,
+  "max_dd_5ans_pct": -75.63,
+  "max_dd_date": "2024-03-05",
+  "max_dd_cours": 20.2456,
+  "sharpe_5ans": -0.22,
+  "corr_sp500_1y": 0.44
+}
