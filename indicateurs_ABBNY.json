@@ -1,0 +1,16 @@
+{
+  "ticker": "ABBNY",
+  "dernier_cours": 85.88,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
+  "vol_30j_ann_pct": 39.4,
+  "beta_5ans": 0.91,
+  "var_95_1j_pct": -2.37,
+  "max_dd_5ans_pct": -33.37,
+  "max_dd_date": "2022-10-03",
+  "max_dd_cours": 22.6822,
+  "sharpe_5ans": 0.94,
+  "corr_sp500_1y": 0.53
+}
