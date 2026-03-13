@@ -1,0 +1,16 @@
+{
+  "ticker": "AWK",
+  "dernier_cours": 138.25,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
+  "vol_30j_ann_pct": 28.0,
+  "beta_5ans": 0.37,
+  "var_95_1j_pct": -2.31,
+  "max_dd_5ans_pct": -37.1,
+  "max_dd_date": "2024-04-16",
+  "max_dd_cours": 108.5098,
+  "sharpe_5ans": 0.03,
+  "corr_sp500_1y": -0.21
+}
