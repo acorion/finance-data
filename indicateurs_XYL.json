@@ -1,0 +1,16 @@
+{
+  "ticker": "XYL",
+  "dernier_cours": 120.02,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
+  "vol_30j_ann_pct": 31.62,
+  "beta_5ans": 1.02,
+  "var_95_1j_pct": -2.51,
+  "max_dd_5ans_pct": -46.69,
+  "max_dd_date": "2022-06-17",
+  "max_dd_cours": 69.6936,
+  "sharpe_5ans": 0.15,
+  "corr_sp500_1y": 0.64
+}
