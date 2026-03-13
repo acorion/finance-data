@@ -1,0 +1,16 @@
+{
+  "ticker": "DASTY",
+  "dernier_cours": 21.25,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
+  "vol_30j_ann_pct": 69.68,
+  "beta_5ans": 0.9,
+  "var_95_1j_pct": -2.85,
+  "max_dd_5ans_pct": -68.16,
+  "max_dd_date": "2026-02-17",
+  "max_dd_cours": 19.77,
+  "sharpe_5ans": -0.39,
+  "corr_sp500_1y": 0.29
+}
