@@ -1,0 +1,16 @@
+{
+  "ticker": "UL",
+  "dernier_cours": 64.4,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
+  "vol_30j_ann_pct": 24.08,
+  "beta_5ans": 0.31,
+  "var_95_1j_pct": -1.71,
+  "max_dd_5ans_pct": -26.59,
+  "max_dd_date": "2022-05-19",
+  "max_dd_cours": 42.6315,
+  "sharpe_5ans": 0.12,
+  "corr_sp500_1y": 0.05
+}
