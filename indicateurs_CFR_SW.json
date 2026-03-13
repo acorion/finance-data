@@ -1,0 +1,16 @@
+{
+  "ticker": "CFR.SW",
+  "dernier_cours": 141.55,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1230,
+  "vol_30j_ann_pct": 33.16,
+  "beta_5ans": 0.64,
+  "var_95_1j_pct": -3.08,
+  "max_dd_5ans_pct": -36.61,
+  "max_dd_date": "2022-05-20",
+  "max_dd_cours": 82.5129,
+  "sharpe_5ans": 0.4,
+  "corr_sp500_1y": 0.24
+}
