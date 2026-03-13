@@ -1,0 +1,16 @@
+{
+  "ticker": "DTE.DE",
+  "dernier_cours": 32.8,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1245,
+  "vol_30j_ann_pct": 33.12,
+  "beta_5ans": 0.16,
+  "var_95_1j_pct": -1.98,
+  "max_dd_5ans_pct": -24.46,
+  "max_dd_date": "2026-01-21",
+  "max_dd_cours": 26.31,
+  "sharpe_5ans": 0.84,
+  "corr_sp500_1y": -0.03
+}
