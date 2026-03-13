@@ -1,0 +1,16 @@
+{
+  "ticker": "WTRG",
+  "dernier_cours": 41.06,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
+  "vol_30j_ann_pct": 24.22,
+  "beta_5ans": 0.41,
+  "var_95_1j_pct": -2.27,
+  "max_dd_5ans_pct": -36.53,
+  "max_dd_date": "2023-10-03",
+  "max_dd_cours": 29.8889,
+  "sharpe_5ans": 0.03,
+  "corr_sp500_1y": -0.09
+}
