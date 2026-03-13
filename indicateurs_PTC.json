@@ -1,0 +1,16 @@
+{
+  "ticker": "PTC",
+  "dernier_cours": 157.46,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
+  "vol_30j_ann_pct": 37.08,
+  "beta_5ans": 1.11,
+  "var_95_1j_pct": -2.79,
+  "max_dd_5ans_pct": -36.07,
+  "max_dd_date": "2022-04-27",
+  "max_dd_cours": 97.62,
+  "sharpe_5ans": 0.15,
+  "corr_sp500_1y": 0.55
+}
