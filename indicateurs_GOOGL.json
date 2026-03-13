@@ -1,0 +1,16 @@
+{
+  "ticker": "GOOGL",
+  "dernier_cours": 303.55,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
+  "vol_30j_ann_pct": 23.3,
+  "beta_5ans": 1.25,
+  "var_95_1j_pct": -2.88,
+  "max_dd_5ans_pct": -44.32,
+  "max_dd_date": "2022-11-03",
+  "max_dd_cours": 82.7461,
+  "sharpe_5ans": 0.72,
+  "corr_sp500_1y": 0.61
+}
