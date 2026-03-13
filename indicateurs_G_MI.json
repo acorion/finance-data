@@ -1,0 +1,16 @@
+{
+  "ticker": "G.MI",
+  "dernier_cours": 33.63,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1242,
+  "vol_30j_ann_pct": 23.15,
+  "beta_5ans": 0.28,
+  "var_95_1j_pct": -1.98,
+  "max_dd_5ans_pct": -30.77,
+  "max_dd_date": "2022-10-07",
+  "max_dd_cours": 11.7397,
+  "sharpe_5ans": 0.95,
+  "corr_sp500_1y": 0.04
+}
