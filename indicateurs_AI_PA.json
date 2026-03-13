@@ -1,0 +1,16 @@
+{
+  "ticker": "AI.PA",
+  "dernier_cours": 170.82,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1251,
+  "vol_30j_ann_pct": 26.36,
+  "beta_5ans": 0.28,
+  "var_95_1j_pct": -1.81,
+  "max_dd_5ans_pct": -23.17,
+  "max_dd_date": "2022-09-29",
+  "max_dd_cours": 99.7112,
+  "sharpe_5ans": 0.47,
+  "corr_sp500_1y": -0.01
+}
