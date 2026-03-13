@@ -1,0 +1,16 @@
+{
+  "ticker": "FER.MC",
+  "dernier_cours": 55.94,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1250,
+  "vol_30j_ann_pct": 26.21,
+  "beta_5ans": 0.32,
+  "var_95_1j_pct": -2.07,
+  "max_dd_5ans_pct": -17.1,
+  "max_dd_date": "2022-05-09",
+  "max_dd_cours": 20.968,
+  "sharpe_5ans": 0.92,
+  "corr_sp500_1y": 0.12
+}
