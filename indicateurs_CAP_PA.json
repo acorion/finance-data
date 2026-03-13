@@ -1,0 +1,16 @@
+{
+  "ticker": "CAP.PA",
+  "dernier_cours": 107.65,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1251,
+  "vol_30j_ann_pct": 49.65,
+  "beta_5ans": 0.59,
+  "var_95_1j_pct": -2.84,
+  "max_dd_5ans_pct": -54.27,
+  "max_dd_date": "2026-02-12",
+  "max_dd_cours": 99.74,
+  "sharpe_5ans": -0.12,
+  "corr_sp500_1y": 0.21
+}
