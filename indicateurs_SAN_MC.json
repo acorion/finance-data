@@ -1,0 +1,16 @@
+{
+  "ticker": "SAN.MC",
+  "dernier_cours": 9.647,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1250,
+  "vol_30j_ann_pct": 46.08,
+  "beta_5ans": 0.55,
+  "var_95_1j_pct": -2.84,
+  "max_dd_5ans_pct": -31.61,
+  "max_dd_date": "2022-07-14",
+  "max_dd_cours": 2.0413,
+  "sharpe_5ans": 0.9,
+  "corr_sp500_1y": 0.32
+}
