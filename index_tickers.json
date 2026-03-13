@@ -1,0 +1,546 @@
+{
+  "date_maj": "2026-03-13",
+  "periode": "2021-03-04 → 2026-03-13",
+  "univers": {
+    "AI.PA": [
+      "LIN",
+      "APD",
+      "PX"
+    ],
+    "AIR.PA": [
+      "BA",
+      "LMT",
+      "RTX"
+    ],
+    "ALV.DE": [
+      "AXA.PA",
+      "CS.PA",
+      "G.MI"
+    ],
+    "GOOGL": [
+      "META",
+      "MSFT",
+      "AMZN"
+    ],
+    "AMZN": [
+      "GOOGL",
+      "BABA",
+      "JD"
+    ],
+    "AAPL": [
+      "MSFT",
+      "GOOGL",
+      "SSNLF"
+    ],
+    "CS.PA": [
+      "ALV.DE",
+      "AXA.PA",
+      "MUV2.DE"
+    ],
+    "BNP.PA": [
+      "SAN.MC",
+      "DBK.DE",
+      "HSBA.L"
+    ],
+    "EN.PA": [
+      "VIE.PA",
+      "DTE.DE",
+      "BAYN.DE"
+    ],
+    "CAP.PA": [
+      "ACN",
+      "WIT",
+      "INFY"
+    ],
+    "ACA.PA": [
+      "BNP.PA",
+      "SAN.MC",
+      "DBK.DE"
+    ],
+    "DSY.PA": [
+      "PTC",
+      "ANSS",
+      "DASTY"
+    ],
+    "DTE.DE": [
+      "ORAN",
+      "TEF.MC",
+      "VOD"
+    ],
+    "EL.PA": [
+      "SIE.DE",
+      "HAL",
+      "JNJ"
+    ],
+    "RMS.PA": [
+      "MC.PA",
+      "CFR.SW",
+      "BRBY.L"
+    ],
+    "OR.PA": [
+      "PG",
+      "UL",
+      "BEIERSDORF.DE"
+    ],
+    "MC.PA": [
+      "RMS.PA",
+      "CFR.SW",
+      "TAPESTRY"
+    ],
+    "ML.PA": [
+      "GT",
+      "5108.T",
+      "CGEMY"
+    ],
+    "MSFT": [
+      "AAPL",
+      "GOOGL",
+      "AMZN"
+    ],
+    "MUV2.DE": [
+      "SCRYY",
+      "HNR1.DE",
+      "ALV.DE"
+    ],
+    "ORAN": [
+      "DTE.DE",
+      "TEF.MC",
+      "VOD"
+    ],
+    "SGO.PA": [
+      "SHW",
+      "HDELY",
+      "EXP"
+    ],
+    "SU.PA": [
+      "ABB",
+      "EMR",
+      "HON"
+    ],
+    "UL": [
+      "PG",
+      "OR.PA",
+      "KMB"
+    ],
+    "VIE.PA": [
+      "AWK",
+      "PNM",
+      "XYL"
+    ],
+    "DG.PA": [
+      "EN.PA",
+      "ACS.MC",
+      "FER.MC"
+    ]
+  },
+  "tickers": {
+    "5108.T": {
+      "fichier": "historique_5108_T.csv",
+      "nb_seances": 1229,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "AAPL": {
+      "fichier": "historique_AAPL.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "ACA.PA": {
+      "fichier": "historique_ACA_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "ACN": {
+      "fichier": "historique_ACN.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "ACS.MC": {
+      "fichier": "historique_ACS_MC.csv",
+      "nb_seances": 1286,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "AI.PA": {
+      "fichier": "historique_AI_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "AIR.PA": {
+      "fichier": "historique_AIR_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "ALV.DE": {
+      "fichier": "historique_ALV_DE.csv",
+      "nb_seances": 1281,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "AMZN": {
+      "fichier": "historique_AMZN.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "APD": {
+      "fichier": "historique_APD.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "AWK": {
+      "fichier": "historique_AWK.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "BA": {
+      "fichier": "historique_BA.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "BABA": {
+      "fichier": "historique_BABA.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "BAYN.DE": {
+      "fichier": "historique_BAYN_DE.csv",
+      "nb_seances": 1281,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "BNP.PA": {
+      "fichier": "historique_BNP_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "BRBY.L": {
+      "fichier": "historique_BRBY_L.csv",
+      "nb_seances": 1268,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "CAP.PA": {
+      "fichier": "historique_CAP_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "CFR.SW": {
+      "fichier": "historique_CFR_SW.csv",
+      "nb_seances": 1264,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "CGEMY": {
+      "fichier": "historique_CGEMY.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "CS.PA": {
+      "fichier": "historique_CS_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "DASTY": {
+      "fichier": "historique_DASTY.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "DBK.DE": {
+      "fichier": "historique_DBK_DE.csv",
+      "nb_seances": 1281,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "DG.PA": {
+      "fichier": "historique_DG_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "DSY.PA": {
+      "fichier": "historique_DSY_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "DTE.DE": {
+      "fichier": "historique_DTE_DE.csv",
+      "nb_seances": 1281,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "EL.PA": {
+      "fichier": "historique_EL_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "EMR": {
+      "fichier": "historique_EMR.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "EN.PA": {
+      "fichier": "historique_EN_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "EXP": {
+      "fichier": "historique_EXP.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "FER.MC": {
+      "fichier": "historique_FER_MC.csv",
+      "nb_seances": 1286,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "G.MI": {
+      "fichier": "historique_G_MI.csv",
+      "nb_seances": 1278,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "GOOGL": {
+      "fichier": "historique_GOOGL.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "GT": {
+      "fichier": "historique_GT.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "HAL": {
+      "fichier": "historique_HAL.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "HNR1.DE": {
+      "fichier": "historique_HNR1_DE.csv",
+      "nb_seances": 1281,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "HON": {
+      "fichier": "historique_HON.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "HSBA.L": {
+      "fichier": "historique_HSBA_L.csv",
+      "nb_seances": 1268,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "INFY": {
+      "fichier": "historique_INFY.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "JD": {
+      "fichier": "historique_JD.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "JNJ": {
+      "fichier": "historique_JNJ.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "KMB": {
+      "fichier": "historique_KMB.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "LIN": {
+      "fichier": "historique_LIN.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "LMT": {
+      "fichier": "historique_LMT.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "MC.PA": {
+      "fichier": "historique_MC_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "META": {
+      "fichier": "historique_META.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "ML.PA": {
+      "fichier": "historique_ML_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "MSFT": {
+      "fichier": "historique_MSFT.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "MUV2.DE": {
+      "fichier": "historique_MUV2_DE.csv",
+      "nb_seances": 1281,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "OR.PA": {
+      "fichier": "historique_OR_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "PG": {
+      "fichier": "historique_PG.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "PTC": {
+      "fichier": "historique_PTC.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "PX": {
+      "fichier": "historique_PX.csv",
+      "nb_seances": 1101,
+      "debut": "2021-10-21",
+      "fin": "2026-03-12"
+    },
+    "RMS.PA": {
+      "fichier": "historique_RMS_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "RTX": {
+      "fichier": "historique_RTX.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "SAN.MC": {
+      "fichier": "historique_SAN_MC.csv",
+      "nb_seances": 1286,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "SCRYY": {
+      "fichier": "historique_SCRYY.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "SGO.PA": {
+      "fichier": "historique_SGO_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "SHW": {
+      "fichier": "historique_SHW.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "SIE.DE": {
+      "fichier": "historique_SIE_DE.csv",
+      "nb_seances": 1281,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "SSNLF": {
+      "fichier": "historique_SSNLF.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "SU.PA": {
+      "fichier": "historique_SU_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "TEF.MC": {
+      "fichier": "historique_TEF_MC.csv",
+      "nb_seances": 1286,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "UL": {
+      "fichier": "historique_UL.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "VIE.PA": {
+      "fichier": "historique_VIE_PA.csv",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "VOD": {
+      "fichier": "historique_VOD.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "WIT": {
+      "fichier": "historique_WIT.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "XYL": {
+      "fichier": "historique_XYL.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "^GSPC": {
+      "fichier": "historique_GSPC.csv",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    }
+  }
+}
