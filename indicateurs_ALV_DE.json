@@ -1,0 +1,16 @@
+{
+  "ticker": "ALV.DE",
+  "dernier_cours": 350.5,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1245,
+  "vol_30j_ann_pct": 24.89,
+  "beta_5ans": 0.29,
+  "var_95_1j_pct": -1.87,
+  "max_dd_5ans_pct": -27.52,
+  "max_dd_date": "2022-09-29",
+  "max_dd_cours": 137.7747,
+  "sharpe_5ans": 0.64,
+  "corr_sp500_1y": 0.08
+}
