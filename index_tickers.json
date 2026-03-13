@@ -541,6 +541,48 @@
       "nb_seances": 1262,
       "debut": "2021-03-04",
       "fin": "2026-03-12"
+    },
+    "ABB": {
+      "fichier": "historique_ABB.csv",
+      "ticker_yf": "ABBNY",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "AXA.PA": {
+      "fichier": "historique_AXA_PA.csv",
+      "ticker_yf": "CS.PA",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "BEIERSDORF.DE": {
+      "fichier": "historique_BEIERSDORF_DE.csv",
+      "ticker_yf": "BEI.DE",
+      "nb_seances": 1281,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "ORAN": {
+      "fichier": "historique_ORAN.csv",
+      "ticker_yf": "ORA.PA",
+      "nb_seances": 1288,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "PNM": {
+      "fichier": "historique_PNM.csv",
+      "ticker_yf": "WTRG",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
+    },
+    "TAPESTRY": {
+      "fichier": "historique_TAPESTRY.csv",
+      "ticker_yf": "TPR",
+      "nb_seances": 1262,
+      "debut": "2021-03-04",
+      "fin": "2026-03-12"
     }
   }
 }
