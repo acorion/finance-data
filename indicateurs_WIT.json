@@ -1,0 +1,16 @@
+{
+  "ticker": "WIT",
+  "dernier_cours": 2.3,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1262,
+  "vol_30j_ann_pct": 56.83,
+  "beta_5ans": 0.83,
+  "var_95_1j_pct": -2.79,
+  "max_dd_5ans_pct": -55.93,
+  "max_dd_date": "2023-04-14",
+  "max_dd_cours": 2.0778,
+  "sharpe_5ans": -0.19,
+  "corr_sp500_1y": 0.37
+}
