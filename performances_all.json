@@ -1,0 +1,642 @@
+{
+  "date_calcul": "2026-03-12",
+  "nb_tickers": 70,
+  "periodes": {
+    "5Y": "2021-03-12",
+    "3Y": "2023-03-12",
+    "1Y": "2025-03-12",
+    "YTD": "2026-01-01"
+  },
+  "tickers": {
+    "AAPL": {
+      "ticker": "AAPL",
+      "dernier_cours": 255.76,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 116.96,
+      "perf_3Y_pct": 74.72,
+      "perf_1Y_pct": 18.39,
+      "perf_YTD_pct": -5.83
+    },
+    "ABBNY": {
+      "ticker": "ABBNY",
+      "dernier_cours": 85.88,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 228.65,
+      "perf_3Y_pct": 177.63,
+      "perf_1Y_pct": 56.52,
+      "perf_YTD_pct": 16.1
+    },
+    "ACA.PA": {
+      "ticker": "ACA.PA",
+      "dernier_cours": 16.51,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 97.16,
+      "perf_3Y_pct": 87.87,
+      "perf_1Y_pct": 8.83,
+      "perf_YTD_pct": -5.93
+    },
+    "ACN": {
+      "ticker": "ACN",
+      "dernier_cours": 196.05,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -20.77,
+      "perf_3Y_pct": -19.19,
+      "perf_1Y_pct": -38.95,
+      "perf_YTD_pct": -26.93
+    },
+    "ACS.MC": {
+      "ticker": "ACS.MC",
+      "dernier_cours": 105.3,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 432.32,
+      "perf_3Y_pct": 333.85,
+      "perf_1Y_pct": 101.46,
+      "perf_YTD_pct": 24.71
+    },
+    "AI.PA": {
+      "ticker": "AI.PA",
+      "dernier_cours": 170.82,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 70.21,
+      "perf_3Y_pct": 33.15,
+      "perf_1Y_pct": -3.23,
+      "perf_YTD_pct": 6.59
+    },
+    "AIR.PA": {
+      "ticker": "AIR.PA",
+      "dernier_cours": 172.04,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 84.12,
+      "perf_3Y_pct": 49.25,
+      "perf_1Y_pct": 7.2,
+      "perf_YTD_pct": -13.29
+    },
+    "ALV.DE": {
+      "ticker": "ALV.DE",
+      "dernier_cours": 350.5,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 109.01,
+      "perf_3Y_pct": 84.37,
+      "perf_1Y_pct": 5.46,
+      "perf_YTD_pct": -10.24
+    },
+    "AMZN": {
+      "ticker": "AMZN",
+      "dernier_cours": 209.53,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 35.64,
+      "perf_3Y_pct": 130.94,
+      "perf_1Y_pct": 5.35,
+      "perf_YTD_pct": -9.22
+    },
+    "APD": {
+      "ticker": "APD",
+      "dernier_cours": 290.48,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 20.33,
+      "perf_3Y_pct": 11.58,
+      "perf_1Y_pct": 1.21,
+      "perf_YTD_pct": 18.45
+    },
+    "AWK": {
+      "ticker": "AWK",
+      "dernier_cours": 138.25,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 9.98,
+      "perf_3Y_pct": 10.84,
+      "perf_1Y_pct": 0.62,
+      "perf_YTD_pct": 6.66
+    },
+    "BA": {
+      "ticker": "BA",
+      "dernier_cours": 204.76,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -23.93,
+      "perf_3Y_pct": 0.83,
+      "perf_1Y_pct": 28.94,
+      "perf_YTD_pct": -5.69
+    },
+    "BABA": {
+      "ticker": "BABA",
+      "dernier_cours": 134.2,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -39.06,
+      "perf_3Y_pct": 70.33,
+      "perf_1Y_pct": -0.49,
+      "perf_YTD_pct": -8.45
+    },
+    "BEI.DE": {
+      "ticker": "BEI.DE",
+      "dernier_cours": 78.82,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -6.09,
+      "perf_3Y_pct": -27.9,
+      "perf_1Y_pct": -41.49,
+      "perf_YTD_pct": -15.86
+    },
+    "BNP.PA": {
+      "ticker": "BNP.PA",
+      "dernier_cours": 85.8,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 128.67,
+      "perf_3Y_pct": 78.94,
+      "perf_1Y_pct": 28.14,
+      "perf_YTD_pct": 6.2
+    },
+    "BRBY.L": {
+      "ticker": "BRBY.L",
+      "dernier_cours": 1066.0,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -49.72,
+      "perf_3Y_pct": -56.19,
+      "perf_1Y_pct": 4.1,
+      "perf_YTD_pct": -16.0
+    },
+    "CAP.PA": {
+      "ticker": "CAP.PA",
+      "dernier_cours": 107.65,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -18.94,
+      "perf_3Y_pct": -35.3,
+      "perf_1Y_pct": -25.74,
+      "perf_YTD_pct": -24.32
+    },
+    "CFR.SW": {
+      "ticker": "CFR.SW",
+      "dernier_cours": 141.55,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 75.84,
+      "perf_3Y_pct": 6.19,
+      "perf_1Y_pct": -10.91,
+      "perf_YTD_pct": -17.73
+    },
+    "CRH": {
+      "ticker": "CRH",
+      "dernier_cours": 99.73,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 137.45,
+      "perf_3Y_pct": 113.12,
+      "perf_1Y_pct": 2.53,
+      "perf_YTD_pct": -19.81
+    },
+    "CS.PA": {
+      "ticker": "CS.PA",
+      "dernier_cours": 38.14,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 124.02,
+      "perf_3Y_pct": 54.12,
+      "perf_1Y_pct": 3.51,
+      "perf_YTD_pct": -6.88
+    },
+    "CTTAY": {
+      "ticker": "CTTAY",
+      "dernier_cours": 7.13,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -41.03,
+      "perf_3Y_pct": 0.67,
+      "perf_1Y_pct": -1.27,
+      "perf_YTD_pct": -10.88
+    },
+    "DASTY": {
+      "ticker": "DASTY",
+      "dernier_cours": 21.25,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -47.54,
+      "perf_3Y_pct": -43.24,
+      "perf_1Y_pct": -49.19,
+      "perf_YTD_pct": -23.89
+    },
+    "DBK.DE": {
+      "ticker": "DBK.DE",
+      "dernier_cours": 25.705,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 169.07,
+      "perf_3Y_pct": 163.11,
+      "perf_1Y_pct": 22.77,
+      "perf_YTD_pct": -22.36
+    },
+    "DG.PA": {
+      "ticker": "DG.PA",
+      "dernier_cours": 129.95,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 71.09,
+      "perf_3Y_pct": 35.12,
+      "perf_1Y_pct": 16.48,
+      "perf_YTD_pct": 8.25
+    },
+    "DSY.PA": {
+      "ticker": "DSY.PA",
+      "dernier_cours": 18.325,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -45.67,
+      "perf_3Y_pct": -48.48,
+      "perf_1Y_pct": -52.3,
+      "perf_YTD_pct": -23.13
+    },
+    "DTE.DE": {
+      "ticker": "DTE.DE",
+      "dernier_cours": 32.8,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 135.12,
+      "perf_3Y_pct": 67.43,
+      "perf_1Y_pct": 1.33,
+      "perf_YTD_pct": 18.58
+    },
+    "EL.PA": {
+      "ticker": "EL.PA",
+      "dernier_cours": 210.8,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 66.81,
+      "perf_3Y_pct": 42.5,
+      "perf_1Y_pct": -20.68,
+      "perf_YTD_pct": -21.9
+    },
+    "EMR": {
+      "ticker": "EMR",
+      "dernier_cours": 132.18,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 58.72,
+      "perf_3Y_pct": 70.32,
+      "perf_1Y_pct": 21.24,
+      "perf_YTD_pct": -0.02
+    },
+    "EN.PA": {
+      "ticker": "EN.PA",
+      "dernier_cours": 49.57,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 82.99,
+      "perf_3Y_pct": 80.9,
+      "perf_1Y_pct": 48.22,
+      "perf_YTD_pct": 11.77
+    },
+    "EXP": {
+      "ticker": "EXP",
+      "dernier_cours": 186.43,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 43.51,
+      "perf_3Y_pct": 39.1,
+      "perf_1Y_pct": -10.62,
+      "perf_YTD_pct": -9.8
+    },
+    "FER.MC": {
+      "ticker": "FER.MC",
+      "dernier_cours": 55.94,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 177.72,
+      "perf_3Y_pct": 123.26,
+      "perf_1Y_pct": 44.56,
+      "perf_YTD_pct": 1.08
+    },
+    "G.MI": {
+      "ticker": "G.MI",
+      "dernier_cours": 33.63,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 169.25,
+      "perf_3Y_pct": 113.76,
+      "perf_1Y_pct": 9.93,
+      "perf_YTD_pct": -5.93
+    },
+    "GOOGL": {
+      "ticker": "GOOGL",
+      "dernier_cours": 303.55,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 198.59,
+      "perf_3Y_pct": 237.7,
+      "perf_1Y_pct": 82.28,
+      "perf_YTD_pct": -2.95
+    },
+    "GT": {
+      "ticker": "GT",
+      "dernier_cours": 7.07,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -61.09,
+      "perf_3Y_pct": -35.02,
+      "perf_1Y_pct": -23.98,
+      "perf_YTD_pct": -19.29
+    },
+    "HNR1.DE": {
+      "ticker": "HNR1.DE",
+      "dernier_cours": 258.4,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 99.55,
+      "perf_3Y_pct": 63.29,
+      "perf_1Y_pct": -1.97,
+      "perf_YTD_pct": -2.93
+    },
+    "HON": {
+      "ticker": "HON",
+      "dernier_cours": 233.4,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 27.98,
+      "perf_3Y_pct": 36.59,
+      "perf_1Y_pct": 22.58,
+      "perf_YTD_pct": 20.23
+    },
+    "HSBA.L": {
+      "ticker": "HSBA.L",
+      "dernier_cours": 1195.8,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 179.99,
+      "perf_3Y_pct": 102.24,
+      "perf_1Y_pct": 41.15,
+      "perf_YTD_pct": 1.91
+    },
+    "HSIC": {
+      "ticker": "HSIC",
+      "dernier_cours": 74.97,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 11.58,
+      "perf_3Y_pct": -2.69,
+      "perf_1Y_pct": 7.19,
+      "perf_YTD_pct": -0.81
+    },
+    "INFY": {
+      "ticker": "INFY",
+      "dernier_cours": 13.44,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -19.24,
+      "perf_3Y_pct": -17.09,
+      "perf_1Y_pct": -25.22,
+      "perf_YTD_pct": -24.58
+    },
+    "JD": {
+      "ticker": "JD",
+      "dernier_cours": 27.94,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -63.35,
+      "perf_3Y_pct": -25.79,
+      "perf_1Y_pct": -28.75,
+      "perf_YTD_pct": -2.65
+    },
+    "JNJ": {
+      "ticker": "JNJ",
+      "dernier_cours": 242.04,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 74.64,
+      "perf_3Y_pct": 74.57,
+      "perf_1Y_pct": 52.77,
+      "perf_YTD_pct": 17.58
+    },
+    "KMB": {
+      "ticker": "KMB",
+      "dernier_cours": 97.82,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -11.69,
+      "perf_3Y_pct": -10.2,
+      "perf_1Y_pct": -27.01,
+      "perf_YTD_pct": -1.85
+    },
+    "LIN": {
+      "ticker": "LIN",
+      "dernier_cours": 490.41,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 95.52,
+      "perf_3Y_pct": 49.84,
+      "perf_1Y_pct": 10.53,
+      "perf_YTD_pct": 15.4
+    },
+    "LMT": {
+      "ticker": "LMT",
+      "dernier_cours": 652.83,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 119.64,
+      "perf_3Y_pct": 48.82,
+      "perf_1Y_pct": 45.32,
+      "perf_YTD_pct": 35.69
+    },
+    "MC.PA": {
+      "ticker": "MC.PA",
+      "dernier_cours": 495.0,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -4.14,
+      "perf_3Y_pct": -34.63,
+      "perf_1Y_pct": -17.15,
+      "perf_YTD_pct": -23.26
+    },
+    "META": {
+      "ticker": "META",
+      "dernier_cours": 638.18,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 139.43,
+      "perf_3Y_pct": 258.0,
+      "perf_1Y_pct": 3.33,
+      "perf_YTD_pct": -3.32
+    },
+    "ML.PA": {
+      "ticker": "ML.PA",
+      "dernier_cours": 29.94,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 13.65,
+      "perf_3Y_pct": 16.88,
+      "perf_1Y_pct": -8.95,
+      "perf_YTD_pct": 5.76
+    },
+    "MSFT": {
+      "ticker": "MSFT",
+      "dernier_cours": 401.86,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 77.64,
+      "perf_3Y_pct": 65.48,
+      "perf_1Y_pct": 5.65,
+      "perf_YTD_pct": -16.72
+    },
+    "MUV2.DE": {
+      "ticker": "MUV2.DE",
+      "dernier_cours": 533.4,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 142.66,
+      "perf_3Y_pct": 81.09,
+      "perf_1Y_pct": -3.74,
+      "perf_YTD_pct": -5.12
+    },
+    "OR.PA": {
+      "ticker": "OR.PA",
+      "dernier_cours": 359.25,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 19.82,
+      "perf_3Y_pct": 0.75,
+      "perf_1Y_pct": 4.5,
+      "perf_YTD_pct": -2.0
+    },
+    "ORA.PA": {
+      "ticker": "ORA.PA",
+      "dernier_cours": 17.175,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 135.3,
+      "perf_3Y_pct": 90.85,
+      "perf_1Y_pct": 54.61,
+      "perf_YTD_pct": 20.95
+    },
+    "PG": {
+      "ticker": "PG",
+      "dernier_cours": 150.5,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 33.24,
+      "perf_3Y_pct": 18.43,
+      "perf_1Y_pct": -8.16,
+      "perf_YTD_pct": 5.76
+    },
+    "PNGAY": {
+      "ticker": "PNGAY",
+      "dernier_cours": 15.87,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -17.93,
+      "perf_3Y_pct": 40.37,
+      "perf_1Y_pct": 35.86,
+      "perf_YTD_pct": -5.42
+    },
+    "PTC": {
+      "ticker": "PTC",
+      "dernier_cours": 157.46,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 19.12,
+      "perf_3Y_pct": 33.01,
+      "perf_1Y_pct": 0.29,
+      "perf_YTD_pct": -9.61
+    },
+    "RMS.PA": {
+      "ticker": "RMS.PA",
+      "dernier_cours": 1901.0,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 107.38,
+      "perf_3Y_pct": 13.74,
+      "perf_1Y_pct": -23.17,
+      "perf_YTD_pct": -10.21
+    },
+    "RTX": {
+      "ticker": "RTX",
+      "dernier_cours": 203.04,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 189.2,
+      "perf_3Y_pct": 125.8,
+      "perf_1Y_pct": 61.35,
+      "perf_YTD_pct": 11.08
+    },
+    "SAN.MC": {
+      "ticker": "SAN.MC",
+      "dernier_cours": 9.647,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 287.45,
+      "perf_3Y_pct": 199.3,
+      "perf_1Y_pct": 65.6,
+      "perf_YTD_pct": -4.2
+    },
+    "SCRYY": {
+      "ticker": "SCRYY",
+      "dernier_cours": 3.43,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 33.39,
+      "perf_3Y_pct": 82.6,
+      "perf_1Y_pct": 29.97,
+      "perf_YTD_pct": 1.48
+    },
+    "SGO.PA": {
+      "ticker": "SGO.PA",
+      "dernier_cours": 72.22,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 68.13,
+      "perf_3Y_pct": 41.36,
+      "perf_1Y_pct": -26.25,
+      "perf_YTD_pct": -16.95
+    },
+    "SHW": {
+      "ticker": "SHW",
+      "dernier_cours": 317.7,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 40.68,
+      "perf_3Y_pct": 52.39,
+      "perf_1Y_pct": -8.37,
+      "perf_YTD_pct": -1.74
+    },
+    "SNN": {
+      "ticker": "SNN",
+      "dernier_cours": 33.04,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -4.44,
+      "perf_3Y_pct": 24.96,
+      "perf_1Y_pct": 17.42,
+      "perf_YTD_pct": 0.7
+    },
+    "SU.PA": {
+      "ticker": "SU.PA",
+      "dernier_cours": 254.75,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 121.48,
+      "perf_3Y_pct": 76.29,
+      "perf_1Y_pct": 13.84,
+      "perf_YTD_pct": 8.45
+    },
+    "TEF.MC": {
+      "ticker": "TEF.MC",
+      "dernier_cours": 3.549,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 30.62,
+      "perf_3Y_pct": 13.42,
+      "perf_1Y_pct": -9.54,
+      "perf_YTD_pct": 1.6
+    },
+    "TPR": {
+      "ticker": "TPR",
+      "dernier_cours": 142.67,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 263.04,
+      "perf_3Y_pct": 272.49,
+      "perf_1Y_pct": 101.89,
+      "perf_YTD_pct": 11.96
+    },
+    "UL": {
+      "ticker": "UL",
+      "dernier_cours": 64.4,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 23.57,
+      "perf_3Y_pct": 29.92,
+      "perf_1Y_pct": 0.15,
+      "perf_YTD_pct": -0.78
+    },
+    "VIE.PA": {
+      "ticker": "VIE.PA",
+      "dernier_cours": 33.23,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 79.28,
+      "perf_3Y_pct": 37.37,
+      "perf_1Y_pct": 14.41,
+      "perf_YTD_pct": 11.81
+    },
+    "VOD": {
+      "ticker": "VOD",
+      "dernier_cours": 14.31,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 8.99,
+      "perf_3Y_pct": 52.65,
+      "perf_1Y_pct": 63.67,
+      "perf_YTD_pct": 8.33
+    },
+    "WIT": {
+      "ticker": "WIT",
+      "dernier_cours": 2.3,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": -25.79,
+      "perf_3Y_pct": 2.2,
+      "perf_1Y_pct": -23.82,
+      "perf_YTD_pct": -19.01
+    },
+    "WTRG": {
+      "ticker": "WTRG",
+      "dernier_cours": 41.06,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 9.43,
+      "perf_3Y_pct": 8.98,
+      "perf_1Y_pct": 10.32,
+      "perf_YTD_pct": 8.03
+    },
+    "XYL": {
+      "ticker": "XYL",
+      "dernier_cours": 120.02,
+      "date_calcul": "2026-03-12",
+      "perf_5Y_pct": 24.95,
+      "perf_3Y_pct": 25.71,
+      "perf_1Y_pct": -1.11,
+      "perf_YTD_pct": -11.57
+    }
+  }
+}
