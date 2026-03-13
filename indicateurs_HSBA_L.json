@@ -1,0 +1,16 @@
+{
+  "ticker": "HSBA.L",
+  "dernier_cours": 1195.8,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1236,
+  "vol_30j_ann_pct": 42.57,
+  "beta_5ans": 0.32,
+  "var_95_1j_pct": -2.49,
+  "max_dd_5ans_pct": -24.31,
+  "max_dd_date": "2025-04-09",
+  "max_dd_cours": 712.7813,
+  "sharpe_5ans": 0.79,
+  "corr_sp500_1y": 0.33
+}
