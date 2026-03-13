@@ -1,0 +1,16 @@
+{
+  "ticker": "ACS.MC",
+  "dernier_cours": 105.3,
+  "date_calcul": "2026-03-12",
+  "periode_debut": "2021-03-04",
+  "periode_fin": "2026-03-12",
+  "nb_seances": 1250,
+  "vol_30j_ann_pct": 33.31,
+  "beta_5ans": 0.35,
+  "var_95_1j_pct": -2.06,
+  "max_dd_5ans_pct": -22.64,
+  "max_dd_date": "2021-07-19",
+  "max_dd_cours": 16.072,
+  "sharpe_5ans": 1.41,
+  "corr_sp500_1y": 0.22
+}
