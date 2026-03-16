@@ -1,9 +1,9 @@
 {
-  "date_maj": "2026-03-13",
+  "date_maj": "2026-03-16",
   "fichier_cours": "cours_portefeuille.csv",
-  "periode": "2021-03-04 → 2026-03-13",
-  "nb_tickers": 71,
-  "nb_seances": 1299,
+  "periode": "2021-03-07 → 2026-03-16",
+  "nb_tickers": 75,
+  "nb_seances": 1300,
   "tickers": [
     "VOD",
     "SAN.MC",
@@ -75,7 +75,11 @@
     "G.MI",
     "CAP.PA",
     "ACS.MC",
-    "META"
+    "META",
+    "ANSS",
+    "SCOR",
+    "SIAGY",
+    "AXA.PA"
   ],
   "univers": {
     "AI.PA": [
